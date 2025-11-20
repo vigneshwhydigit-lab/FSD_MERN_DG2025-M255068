@@ -1,0 +1,20 @@
+.container{
+    margin: 75px 400px;
+    padding: 20px;
+    justify-content: center;
+    color: blue;
+    background-color: blanchedalmond;
+    border-radius: 50px;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    border: solid black;
+}
+.c1{
+    color: red;
+    justify-content: center;
+    text-align: center;
+}
+b{
+    color: black;
+}
